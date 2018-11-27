@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="943ae327-480f-45e2-ae09-e130f398f84a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter01-/02-买苹果买香蕉的支持度和置信度的加强版.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter01-/02-买苹果买香蕉的支持度和置信度的加强版.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter04-亲和性分析推荐电影/01-亲和性分析推荐电影之加载数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter04-亲和性分析推荐电影/01-亲和性分析推荐电影之加载数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter05-用转换器抽取特征/01-寻找特征.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter05-用转换器抽取特征/01-寻找特征.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ad.data" beforeDir="false" afterPath="$PROJECT_DIR$/data/ad.data" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,44 +22,68 @@
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.42" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="data" value="3" />
-          <entry key="py" value="22" />
+          <entry key="data" value="6" />
+          <entry key="py" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="22" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="4" />
-          <entry key="py" value="4033" />
+          <entry key="data" value="1" />
+          <entry key="py" value="5489" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="4037" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="5493" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter04-亲和性分析推荐电影/01-亲和性分析推荐电影之加载数据.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="224" column="20" lean-forward="true" selection-start-line="224" selection-start-column="20" selection-end-line="224" selection-end-column="20" />
+            <state relative-caret-position="458">
+              <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-end-line="50" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
                 <marker date="1543214814064" expanded="true" signature="861:966" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter03-用决策树预测获胜球队/11-决策树之球队随机森林预测获胜球队的.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="509">
+              <caret line="50" column="26" selection-start-line="50" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter05-用转换器抽取特征/01-寻找特征.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -101,6 +123,8 @@
         <option value="$PROJECT_DIR$/chapter_03/11-决策树之球队随机森林预测获胜球队的.py" />
         <option value="$PROJECT_DIR$/chapter01-/02-买苹果买香蕉的支持度和置信度的加强版.py" />
         <option value="$PROJECT_DIR$/chapter04-亲和性分析推荐电影/01-亲和性分析推荐电影之加载数据.py" />
+        <option value="$PROJECT_DIR$/data/ad.data" />
+        <option value="$PROJECT_DIR$/chapter05-用转换器抽取特征/01-寻找特征.py" />
       </list>
     </option>
   </component>
@@ -111,8 +135,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1064" />
-    <option name="y" value="279" />
+    <option name="x" value="953" />
+    <option name="y" value="314" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -150,6 +174,11 @@
             <path>
               <item name="DataMining" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataMining" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter05-用转换器抽取特征" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataMining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMining" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -162,7 +191,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -226,9 +255,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1064" y="279" width="1400" height="1000" extended-state="0" />
+    <frame x="953" y="314" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2569956" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -242,7 +272,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32929516" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32929516" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32929516" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -296,13 +326,6 @@
     <entry file="file://$PROJECT_DIR$/chapter03-用决策树预测获胜球队/10-决策树之球队名称编码化预测获胜球队的.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter03-用决策树预测获胜球队/11-决策树之球队随机森林预测获胜球队的.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="90" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/u.data">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -314,19 +337,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="252" selection-start-line="252" selection-end-line="252" />
-          <folding>
-            <element signature="e#202#211#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter04-亲和性分析推荐电影/01-亲和性分析推荐电影之加载数据.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="224" column="20" lean-forward="true" selection-start-line="224" selection-start-column="20" selection-end-line="224" selection-end-column="20" />
+        <state relative-caret-position="458">
+          <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-end-line="50" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
             <marker date="1543214814064" expanded="true" signature="861:966" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03-用决策树预测获胜球队/11-决策树之球队随机森林预测获胜球队的.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="50" column="26" selection-start-line="50" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ad.data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="3280" selection-start-line="3280" selection-end-line="3280" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter05-用转换器抽取特征/01-寻找特征.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
