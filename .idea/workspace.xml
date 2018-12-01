@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="943ae327-480f-45e2-ae09-e130f398f84a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/chapter05-用转换器抽取特征/01-寻找特征.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter05-用转换器抽取特征/01-寻找特征.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ad.data" beforeDir="false" afterPath="$PROJECT_DIR$/data/ad.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/apple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter07-用图挖掘找到感兴趣的人/01-图挖掘找到感兴趣的人.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08-用神经网络破解验证码/01-破解图形验证码.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter06-使用朴素贝叶斯进行社会媒体挖掘/01-朴素贝叶斯.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter06-使用朴素贝叶斯进行社会媒体挖掘/01-朴素贝叶斯.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,43 +15,54 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/DataMining$01_.coverage" NAME="01-亲和性分析推荐电影之加载数据 Coverage Results" MODIFIED="1542869883959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter04-亲和性分析推荐电影" />
+    <SUITE FILE_PATH="coverage/DataMining$test.coverage" NAME="test Coverage Results" MODIFIED="1543393977798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter06-使用朴素贝叶斯进行社会媒体挖掘" />
+    <SUITE FILE_PATH="coverage/DataMining$01_.coverage" NAME="01-亲和性分析推荐电影之加载数据 Coverage Results" MODIFIED="1543393855647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter06-使用朴素贝叶斯进行社会媒体挖掘" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-2013104342">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.56" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="data" value="6" />
-          <entry key="py" value="25" />
+          <entry key="ipynb" value="1" />
+          <entry key="json" value="3" />
+          <entry key="pstat" value="3" />
+          <entry key="py" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="IPNB" value="1" />
+          <entry key="JSON" value="3" />
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="25" />
+          <entry key="Profiler Session" value="3" />
+          <entry key="Python" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="4" />
+          <entry key="Python Console" value="68" />
           <entry key="data" value="1" />
-          <entry key="py" value="5489" />
+          <entry key="py" value="9205" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="5493" />
+          <entry key="Python" value="9273" />
         </counts>
       </usages-collector>
     </session>
@@ -56,34 +70,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter04-亲和性分析推荐电影/01-亲和性分析推荐电影之加载数据.py">
+        <entry file="file://$PROJECT_DIR$/chapter06-使用朴素贝叶斯进行社会媒体挖掘/01-朴素贝叶斯.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-end-line="50" />
+            <state relative-caret-position="191">
+              <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
-                <marker date="1543214814064" expanded="true" signature="861:966" ph="..." />
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter03-用决策树预测获胜球队/11-决策树之球队随机森林预测获胜球队的.py">
+        <entry file="file://$PROJECT_DIR$/chapter07-用图挖掘找到感兴趣的人/01-图挖掘找到感兴趣的人.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
-              <caret line="50" column="26" selection-start-line="50" selection-end-line="51" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter05-用转换器抽取特征/01-寻找特征.py">
+        <entry file="file://$PROJECT_DIR$/chapter08-用神经网络破解验证码/01-破解图形验证码.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
+                <marker date="1543654965306" expanded="true" signature="432:466" ph="..." />
               </folding>
             </state>
           </provider>
@@ -94,6 +108,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -105,6 +120,7 @@
       <find>favorable_reviews_by_users</find>
       <find>frequent_itemsets</find>
       <find>print</find>
+      <find>lables</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -125,6 +141,11 @@
         <option value="$PROJECT_DIR$/chapter04-亲和性分析推荐电影/01-亲和性分析推荐电影之加载数据.py" />
         <option value="$PROJECT_DIR$/data/ad.data" />
         <option value="$PROJECT_DIR$/chapter05-用转换器抽取特征/01-寻找特征.py" />
+        <option value="$PROJECT_DIR$/chapter06-使用朴素贝叶斯进行社会媒体挖掘/02-test.ipynb" />
+        <option value="$PROJECT_DIR$/chapter07-用图挖掘找到感兴趣的人/01-图挖掘找到感兴趣的人.py" />
+        <option value="$PROJECT_DIR$/chapter06-使用朴素贝叶斯进行社会媒体挖掘/02-朴素贝叶斯对文本进行分类.py" />
+        <option value="$PROJECT_DIR$/chapter06-使用朴素贝叶斯进行社会媒体挖掘/01-朴素贝叶斯.py" />
+        <option value="$PROJECT_DIR$/chapter08-用神经网络破解验证码/01-破解图形验证码.py" />
       </list>
     </option>
   </component>
@@ -135,8 +156,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="y" value="314" />
+    <option name="x" value="1216" />
+    <option name="y" value="341" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -148,7 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,12 +199,28 @@
             <path>
               <item name="DataMining" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataMining" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter06-使用朴素贝叶斯进行社会媒体挖掘" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataMining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMining" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter07-用图挖掘找到感兴趣的人" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataMining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMining" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter08-用神经网络破解验证码" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataMining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMining" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,34 +248,45 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="01-亲和性分析推荐电影之加载数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="Unnamed" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
+      <option name="PORT" value="0" />
+      <option name="HOST" value="localhost" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list />
+        </option>
+      </PathMappingSettings>
+      <option name="REDIRECT_OUTPUT" value="true" />
+      <option name="SUSPEND_AFTER_CONNECT" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
       <module name="DataMining" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter04-亲和性分析推荐电影" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter06-使用朴素贝叶斯进行社会媒体挖掘" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter04-亲和性分析推荐电影/01-亲和性分析推荐电影之加载数据.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter06-使用朴素贝叶斯进行社会媒体挖掘/01-朴素贝叶斯.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.01-亲和性分析推荐电影之加载数据" />
-      </list>
-    </recent_temporary>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python Remote Debug.Unnamed" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -255,10 +302,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="314" width="1400" height="1000" extended-state="0" />
+    <frame x="1216" y="341" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27540502" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -272,13 +319,15 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32929516" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.36453745" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32929516" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32929516" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,14 +389,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter04-亲和性分析推荐电影/01-亲和性分析推荐电影之加载数据.py">
+    <entry file="file://$PROJECT_DIR$/data/ad.data">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-end-line="50" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <marker date="1543214814064" expanded="true" signature="861:966" ph="..." />
-          </folding>
+        <state relative-caret-position="1248">
+          <caret line="3280" selection-start-line="3280" selection-end-line="3280" />
         </state>
       </provider>
     </entry>
@@ -358,19 +403,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/ad.data">
+    <entry file="file://$PROJECT_DIR$/data/python_tweets.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="3280" selection-start-line="3280" selection-end-line="3280" />
+        <state relative-caret-position="6596">
+          <caret line="388" column="70" selection-start-line="388" selection-start-column="70" selection-end-line="388" selection-end-column="70" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter06-使用朴素贝叶斯进行社会媒体挖掘/02-test.ipynb" />
+    <entry file="file://$PROJECT_DIR$/data/python_classes.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter05-用转换器抽取特征/01-寻找特征.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+        <state relative-caret-position="312">
+          <caret line="118" column="22" selection-start-line="118" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/replicable_dataset.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter04-亲和性分析推荐电影/01-亲和性分析推荐电影之加载数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="49" column="42" selection-start-line="49" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter06-使用朴素贝叶斯进行社会媒体挖掘/02-朴素贝叶斯对文本进行分类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter06-使用朴素贝叶斯进行社会媒体挖掘/01-朴素贝叶斯.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter07-用图挖掘找到感兴趣的人/01-图挖掘找到感兴趣的人.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter08-用神经网络破解验证码/01-破解图形验证码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1543654965306" expanded="true" signature="432:466" ph="..." />
           </folding>
         </state>
       </provider>
